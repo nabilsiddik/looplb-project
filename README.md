@@ -1,1 +1,1 @@
-# looplb-project
+# looplb
