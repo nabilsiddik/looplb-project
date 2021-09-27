@@ -2,6 +2,9 @@ body{
     background: #2B2B2B;
     color: #fff;
 }
+html{
+   scroll-behaviour: smooth;
+}
 .navbar{
     background: #292b2c;
     opacity: 0.7;
